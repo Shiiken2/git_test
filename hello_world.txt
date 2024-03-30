@@ -1,1 +1,3 @@
-print(str("Hello World!"))
+eingabe = int(input, "Gib eine Zahl ein")
+ergebnis = 5 + eingabe
+print("Das Ergebnis lautet:", ergebnis)
