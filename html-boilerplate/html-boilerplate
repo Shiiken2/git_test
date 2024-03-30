@@ -1,0 +1,29 @@
+<body>
+  <h1>HTML Guide</h1>
+  <p><ul><!DOCTYPE html></ul>
+  </p>
+  <h2>Basic Concepts</h2>
+    <h3>Tags and Elements</h3>
+    <p>Tags are surrounding the Elements</p>
+    <p>Elements are containers for content. Using elements correctly is called semantic HTML.</p>
+    <h3>Void Elements</h3>
+    <p>Void Elements like br or img do not have a closing tag. They are void because they dont wrap any content.</p>
+
+</body>
+
+html files are by default called index.html. web servers will look for files by that name
+
+Full Boilerplate contains:
+<!DOCTYPE html>
+<html lang="en">
+     <head>
+        <meta charset="utf-8>
+        <title>My First Webpage</title>
+    </head>
+
+    <body>
+        <p>
+            
+        </p>
+    </body>
+</html>
