@@ -13,7 +13,7 @@
 
 html files are by default called index.html. web servers will look for files by that name
 
-Full Boilerplate contains:
+Full Boilerplate can automatically be implemented by "!" at the beginning of the empty file contains:
 <!DOCTYPE html>
 <html lang="en">
      <head>
